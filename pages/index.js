@@ -15,8 +15,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          This is a landing page{' '}
+          <code className={styles.code}>for ftc 2020</code>
         </p>
 
         <div className={styles.grid}>
