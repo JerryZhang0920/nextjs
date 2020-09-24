@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>FTC Team 16418</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/LogoRobo_edited_edited.png" />
       </Head>
 
       <main className={styles.main}>
