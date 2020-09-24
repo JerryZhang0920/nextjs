@@ -25,9 +25,9 @@ export default function Home() {
             <p>Learn whats new in the FIRST TECH CHALLENGE 2020-21 season.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+          <a href="https://www.youtube.com/watch?v=H3V3A7CgwPU" className={styles.card}>
+            <h3>Game Video &rarr;</h3>
+            <p>Watch the 2020-21 season game video!</p>
           </a>
 
           <a
