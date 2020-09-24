@@ -20,9 +20,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://firstinspiresst01.blob.core.windows.net/first-game-changers/ftc/game-one-page.pdf" className={styles.card}>
+            <h3>Documentation for the 2020-21 season &rarr;</h3>
+            <p>Learn whats new in the FIRST TECH CHALLENGE 2020-21 season.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
