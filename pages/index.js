@@ -34,17 +34,17 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h3>Job Application Form &rarr;</h3>
+            <p>Fill in the form so we know which job you are interested in.</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.firstinspires.org/resource-library/ftc/game-and-season-info"
             className={styles.card}
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Resource Library &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Resource Library has all the resources for the 2020-21 season.
             </p>
           </a>
         </div>
