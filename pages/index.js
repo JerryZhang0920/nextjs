@@ -31,7 +31,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfxiXFl36eOJUmaqxymyKalZsfllz05u5xlInlKKP5XzPM1SQ/viewform"
             className={styles.card}
           >
             <h3>Job Application Form &rarr;</h3>
